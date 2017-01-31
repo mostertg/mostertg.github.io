@@ -1,3 +1,13 @@
-title: Notes and Musings
-description: A collection of personal notes and academic school notes. 
-theme: jekyll-theme-minimal
+markdown:         redcarpet
+highlighter:      pygments
+
+title:            'Notes and Musings'
+description:      'A collection of personal notes and academic school notes.'
+
+author:
+  name:           'Giovanni Mostert'
+
+paginate:         5
+
+github:
+  repo:           https://github.com/mostertg/mostertg.github.io
