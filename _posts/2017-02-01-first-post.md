@@ -1,4 +1,4 @@
-# First Post, yeah!
+### First Post, yeah!
 
 Welcome to my personal blog hosted by Github Pages.
 
