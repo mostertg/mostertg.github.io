@@ -1,5 +1,5 @@
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 title:            'Notes and Musings'
 description:      'A collection of personal notes and academic school notes.'
