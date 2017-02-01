@@ -1,4 +1,3 @@
-markdown:         kramdown
 highlighter:      rouge
 
 title:            'Notes and Musings'
@@ -11,3 +10,6 @@ paginate:         5
 
 github:
   repo:           https://github.com/mostertg/mostertg.github.io
+  
+# Google Analytics
+google_analytics: UA-91246521-1
