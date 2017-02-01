@@ -1,3 +1,10 @@
+---
+layout: post
+title: First Post, yeah!
+category: writing
+tags: [writing, blog, first]
+---
+
 ### First Post, yeah!
 
 Welcome to my personal blog hosted by Github Pages.
